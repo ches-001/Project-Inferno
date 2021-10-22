@@ -5,7 +5,7 @@
 
 <p>Project Inferno is a miniature project designed to simply predict the brightness temperature / Intensity of a land surface via it's longitude and latitude coordinates with the aid of Feed forward Network in Deep learning.</p>
 
-<p>The <h3> primary aim </h3> of this project is to contribute to the open source community and enlighten fellow developer who are new on how machine learning models are interfaced with the webapps.
+<p>The primary aim of this project is to contribute to the open source community and enlighten fellow developer who are new on how machine learning models are interfaced with the webapps.
 The </h3> Secondary aim </h3> is to enable the prediction of possible wildfire hotspots around the globe</p>
 <hr>
 <p> The model is a network of fully connected layers implimented with pytorch, It was trained on the <span style="color:blue;">fire_archive_M6_154706 dataset</span>.</p> 
