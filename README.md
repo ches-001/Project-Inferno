@@ -24,7 +24,7 @@ Some other APIs were used for getting the other data pertaining to the location,
 <p>Clone this repository to get started.
 Ensure all dependencies are installed:
 <br>
-<a href="">Laravel Installation guide with composer</a>
+<a href="https://laravel.com/docs/4.2#:~:text=Via%20Download,all%20of%20the%20framework's%20dependencies.">Laravel Installation guide with composer</a>
 <br>
  Run the 'activate_interface_server.bat' file to fire up the laravel webapp. <br>
 Next open your terminal on your working directory and run the following commands:
