@@ -2,8 +2,7 @@
 
 <h3>DEMO VIDEO</h3>
 
-https://user-images.githubusercontent.com/70514310/138530336-3c452bfc-1e84-4eb5-921d-1049726da53a.mp4
-
+https://user-images.githubusercontent.com/70514310/138531560-afcaa265-5bd4-45dc-b714-07078898ba1d.mp4
 
 
 <p>Project Inferno is a miniature project designed to simply predict the brightness temperature / Intensity of a land surface via it's longitude and latitude coordinates with the aid of Feed forward Network in Deep learning.</p>
