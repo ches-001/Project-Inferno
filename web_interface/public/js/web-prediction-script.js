@@ -52,7 +52,7 @@ async function getWeatherStat(lat, long) {
             `<div class="progress-bar" style="width:; height:100px;"></div>`
         );
         document.querySelector(".text-danger").innerHTML = (
-            `<i class='fa fa-warning'></i>"CANNOT PREDICT WILDFIRE OVER WATER BODY."`
+            `<i class='fa fa-warning'></i>"CANNOT PREDICT BRIGHTNESS INTENSITY OVER WATER BODY."`
         );
         document.getElementById("API-retrieved-data").value = null;
     }
