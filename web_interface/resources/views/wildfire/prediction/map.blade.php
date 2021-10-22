@@ -3,7 +3,7 @@
 @section('content')
 <center>
   <h3 id="map-title">
-    WILDFIRE HOTSPOT PREDICTION <i i class="fa fa-fire" aria-hidden="true"></i>
+    BRIGHTNESS INTENSITY PREDICTION <i i class="fa fa-fire" aria-hidden="true"></i>
     <br>
     <h5 id="min">on the earth map <i i class="fa fa-map" aria-hidden="true"></i> </h5>
   </h3>
