@@ -29,7 +29,7 @@
 
           <input id ="prediction-data" name="prediction-data" type="hidden">
           
-          <button href="/view_analysis" class="input-fields" name="submit">view analysis</button>
+          <button href="/view_analysis" class="input-fields" name="submit">view details</button>
         </form>
         <!--progress bar-->
         <hr>
